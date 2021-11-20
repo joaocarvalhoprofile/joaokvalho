@@ -1,4 +1,4 @@
-### Hi there, I'm João 👋
+### Hey there, welcome to my github space, I'm João 👋
 
 <!--
 **joaokvalho/joaokvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
